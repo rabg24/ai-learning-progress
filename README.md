@@ -16,3 +16,5 @@ Repository structure
 
 Owner: rabg24
 Repo: rabg24/ai-learning-progress
+
+<img width="1285" height="510" alt="image" src="https://github.com/user-attachments/assets/2f197e07-ecac-4384-8a5e-234c7aee7afa" />
